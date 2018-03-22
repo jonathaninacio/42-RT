@@ -3,7 +3,7 @@
 ![screenshot](rt2.png?raw=true)
 
 Moteur de rendu 3D | RT
-Travail effectué en groupe :
+projet mené en groupe :
 - https://github.com/sboez | Sandra Boez
 - https://github.com/CorbeauBlanc | Emeric Descoings
 - https://github.com/aknila | Anthony Ancel
